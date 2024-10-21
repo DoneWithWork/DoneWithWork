@@ -65,6 +65,7 @@
 ### :writing_hand: [Blog Posts](https://medium.com/@DoneWithWork) :
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with Collections in Rust: Vectors, HashMaps, and Strings](https://medium.com/@DoneWithWork/working-with-collections-in-rust-vectors-hashmaps-and-strings-323bd8e2127a?source=rss-2483953da18c------2)
 - [Mastering HTTP Requests with Python’s Requests Module: An Intermediate Guide](https://medium.com/@DoneWithWork/mastering-http-requests-with-pythons-requests-module-an-intermediate-guide-9c54ee173768?source=rss-2483953da18c------2)
 - [5 Python modules you didn’t know exists](https://medium.com/@DoneWithWork/5-python-modules-you-didnt-know-exists-b16e26819205?source=rss-2483953da18c------2)
 - [5 Different Ways to Print in Python](https://medium.com/@DoneWithWork/5-different-ways-to-print-in-python-17528bb5c173?source=rss-2483953da18c------2)
